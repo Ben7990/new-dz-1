@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\bin\Debug\net6.0\work_4.exe
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\bin\Debug\net6.0\work_4.deps.json
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\bin\Debug\net6.0\work_4.runtimeconfig.json
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\bin\Debug\net6.0\work_4.dll
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\bin\Debug\net6.0\work_4.pdb
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\work_4.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\work_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\work_4.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\work_4.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\work_4.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\work_4.dll
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\refint\work_4.dll
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\work_4.pdb
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\work_4.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\обучение\языки програмирования\c#\DZ_1_Turbin\work_4\obj\Debug\net6.0\ref\work_4.dll
